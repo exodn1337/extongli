@@ -2,11 +2,11 @@
 <document>
 	<ChannelList channel_name="EXODN">
 		<Local local_name="ImmortalsGames">
-			<version addr="http://149.56.8.83/idnpatch_immortals/immortalsver/"/>
-			<update addr="http://149.56.8.83/idnpatch_immortals/immortalsup/"/>
-			<guidepage addr="http://exodn.com/patch.php"/>
+			<version addr="https://raw.githubusercontent.com/exodn1337/extongli/master/exover/"/>
+			<update addr="https://raw.githubusercontent.com/exodn1337/extongli/master/exoup/"/>
+			<guidepage addr="https://raw.githubusercontent.com/exodn1337/extongli/master/exo.html/"/>
 			<homepage addr="http://forum.exodn.com/"/>
-			<login addr="149.56.8.83" port="14300"/>
+			<login addr="github.com" port="14300"/>
 		</Local>
 	</ChannelList>
 </document>
